@@ -6,7 +6,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bla3ehy&show_icons=true" alt="bla3ehy" /></p>
 
 <p align="center">
-<a href="https://fb.com/Blake Shih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Blake Shih" height="30" width="30" /></a>
+<a href="https://fb.com/blake shih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blake shih" height="30" width="30" /></a>
 </p>
 > <h4>Contact me by aa4152@gmail.com</h4>
 
