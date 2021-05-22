@@ -14,6 +14,7 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://spng.pngfind.com/pngs/s/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql" width="40" height="40"/>
 </p><p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bla3ehy&layout=compact&hide=html" alt="bla3ehy" /></p>
 
